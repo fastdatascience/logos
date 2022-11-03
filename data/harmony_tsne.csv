@@ -1,29 +1,29 @@
-x1,y1,z1,label,source
-52.322906,76.83907,68.505295,"Feeling nervous, anxious, or on edge",GAD-7 Q1
--9.197946,58.28273,-208.98253,Not being able to stop or control worrying,GAD-7 Q2
-37.79481,135.71649,-142.4555,Worrying too much about different things,GAD-7 Q3
-131.84058,-18.557718,-96.44775,Trouble relaxing,GAD-7 Q4
-35.07726,3.4259555,-68.54955,Being so restless that it is hard to sit still,GAD-7 Q5
-115.30185,78.506714,17.855011,Becoming easily annoyed or irritable,GAD-7 Q6
--112.39014,17.499973,-26.466682,"Feeling afraid, as if something awful might happen",GAD-7 Q7
--34.713512,26.336946,128.26532,Numbness or tingling,Beck's Q1
--217.75851,33.347137,-64.09761,Feeling hot,Beck's Q2
-67.7901,-31.208418,88.53368,Wobbliness in legs,Beck's Q3
-94.85028,26.32844,-105.574486,Unable to relax,Beck's Q4
--136.32318,-2.7616465,35.62076,Fear of worst happening,Beck's Q5
--56.36517,-77.7942,33.498867,Dizzy or lightheaded,Beck's Q6
--35.903183,-41.2438,-156.0127,Heart pounding / racing,Beck's Q7
--78.55647,111.74307,44.44832,Unsteady,Beck's Q8
--5.0564036,47.387897,19.838919,Terrified or afraid,Beck's Q9
-124.63717,-92.37214,47.75334,Nervous,Beck's Q10
-281.3755,-30.37765,56.617134,Feeling of choking,Beck's Q11
-170.76483,-94.05618,-10.981758,Hands trembling,Beck's Q12
--122.676735,108.25289,111.723305,Shaky / unsteady,Beck's Q13
--79.57923,-67.17034,144.96114,Fear of losing control,Beck's Q14
--181.70189,-133.83012,-26.021076,Difficulty in breathing,Beck's Q15
-94.04892,9.744101,191.26675,Fear of dying,Beck's Q16
--12.931539,86.30108,-26.16955,Scared,Beck's Q17
-46.266216,-80.97373,35.609814,Indigestion,Beck's Q18
-27.020815,-77.38008,-155.51231,Faint / lightheaded,Beck's Q19
--13.728128,-120.39634,-60.365063,Face flushed,Beck's Q20
-63.534134,196.65105,22.587915,Hot / cold sweats,Beck's Q21
+x1,y1,z1,label,source,category
+52.322906,76.83907,68.505295,"Feeling nervous, anxious, or on edge",GAD-7 Q1,0
+-9.197946,58.28273,-208.98253,Not being able to stop or control worrying,GAD-7 Q2,0
+37.79481,135.71649,-142.4555,Worrying too much about different things,GAD-7 Q3,0
+131.84058,-18.557718,-96.44775,Trouble relaxing,GAD-7 Q4,0
+35.07726,3.4259555,-68.54955,Being so restless that it is hard to sit still,GAD-7 Q5,0
+115.30185,78.506714,17.855011,Becoming easily annoyed or irritable,GAD-7 Q6,0
+-112.39014,17.499973,-26.466682,"Feeling afraid, as if something awful might happen",GAD-7 Q7,0
+-34.713512,26.336946,128.26532,Numbness or tingling,Beck's Q1,1
+-217.75851,33.347137,-64.09761,Feeling hot,Beck's Q2,1
+67.7901,-31.208418,88.53368,Wobbliness in legs,Beck's Q3,1
+94.85028,26.32844,-105.574486,Unable to relax,Beck's Q4,1
+-136.32318,-2.7616465,35.62076,Fear of worst happening,Beck's Q5,1
+-56.36517,-77.7942,33.498867,Dizzy or lightheaded,Beck's Q6,1
+-35.903183,-41.2438,-156.0127,Heart pounding / racing,Beck's Q7,1
+-78.55647,111.74307,44.44832,Unsteady,Beck's Q8,1
+-5.0564036,47.387897,19.838919,Terrified or afraid,Beck's Q9,1
+124.63717,-92.37214,47.75334,Nervous,Beck's Q10,1
+281.3755,-30.37765,56.617134,Feeling of choking,Beck's Q11,1
+170.76483,-94.05618,-10.981758,Hands trembling,Beck's Q12,1
+-122.676735,108.25289,111.723305,Shaky / unsteady,Beck's Q13,1
+-79.57923,-67.17034,144.96114,Fear of losing control,Beck's Q14,1
+-181.70189,-133.83012,-26.021076,Difficulty in breathing,Beck's Q15,1
+94.04892,9.744101,191.26675,Fear of dying,Beck's Q16,1
+-12.931539,86.30108,-26.16955,Scared,Beck's Q17,1
+46.266216,-80.97373,35.609814,Indigestion,Beck's Q18,1
+27.020815,-77.38008,-155.51231,Faint / lightheaded,Beck's Q19,1
+-13.728128,-120.39634,-60.365063,Face flushed,Beck's Q20,1
+63.534134,196.65105,22.587915,Hot / cold sweats,Beck's Q21,1
